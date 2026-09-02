@@ -10,11 +10,6 @@ const pokemonList = [
   },
 ];
 
-
-/** site utiliser pour m'aider a afficher les cartes des pokémons : 
- * https://fr.legacy.reactjs.org/docs/lists-and-keys.html */
-
-
 function PokemonCard () {
     return (
         <div>
